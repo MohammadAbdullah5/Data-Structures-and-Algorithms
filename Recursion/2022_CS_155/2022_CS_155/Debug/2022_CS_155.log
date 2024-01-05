@@ -1,0 +1,10 @@
+﻿  2022_CS_155.cpp
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(40,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(51,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(62,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(73,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(181,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(186,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(188): warning C4715: 'XPowerYOrderOfLogY': not all control paths return a value
+D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\2022_CS_155\2022_CS_155.cpp(224): warning C4715: 'multiplyWithLog2': not all control paths return a value
+  2022_CS_155.vcxproj -> D:\University\Data Structures and Algorithms\Recursion\2022_CS_155\Debug\2022_CS_155.exe
